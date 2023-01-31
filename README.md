@@ -1,5 +1,5 @@
-# [Random Color Tool](https://vuvietduc.com/cong-cu-chon-mau-ngau-nhien-random-color-tool/)
- [Demo](https://vuvietduc.com/cong-cu-chon-mau-ngau-nhien-random-color-tool/)
+# [Random Material Color Tool](https://vuvietduc.com/cong-cu-chon-mau-material-ngau-nhien/)
+ [Demo](https://vuvietduc.com/cong-cu-chon-mau-material-ngau-nhien/)
 <p align="center">
 
 
