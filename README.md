@@ -1,24 +1,15 @@
 # [Random Color Tool](https://vuvietduc.com/cong-cu-chon-mau-ngau-nhien-random-color-tool/)
-
+# [DEMO👉](https://vuvietduc.com/cong-cu-chon-mau-ngau-nhien-random-color-tool/)
 <p align="center">
 
 
-<img src="./Public/Img/Random%20color%20tool.svg" />
+<img src="./Public/Img/Random%20color%20tool.jpg" />
 <p>
 
 
 <p align="center">
 
-<img src="./Public/Img/random%20color%20dum.svg" />
-<p>
-
-
-
-
-<p align="center">
-
-
-<img src="./Public/Img/random%20color%20masterial.svg" />
+<img src="./Public/Img/random%20color%20dum.jpg" />
 <p>
 
 
@@ -27,7 +18,16 @@
 <p align="center">
 
 
-<img src="./Public/Img/Random%20color%20Pastel.svg" />
+<img src="./Public/Img/random%20color%20masterial.jpg" />
+<p>
+
+
+
+
+<p align="center">
+
+
+<img src="./Public/Img/Random%20color%20Pastel.jpg" />
 <p>
 
 
