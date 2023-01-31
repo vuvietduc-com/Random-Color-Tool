@@ -1,5 +1,6 @@
 # [Random Color Tool](https://vuvietduc.com/cong-cu-chon-mau-ngau-nhien-random-color-tool/)
 # [DEMO👉](https://vuvietduc.com/cong-cu-chon-mau-ngau-nhien-random-color-tool/)
+
 <div style="margin: 0 100px;">
 <p align="center">
 
@@ -19,7 +20,7 @@
 <p align="center">
 
 
-<img src="./Public/Img/random%20color%20masterial.jpg" />
+<img src="./Public/Img/random%20color%20masterial.jpg" heihgt=100px/>
 <p>
 </div>
 
